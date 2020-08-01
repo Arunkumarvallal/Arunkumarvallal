@@ -27,7 +27,6 @@ I am a Augmented Reality enthuiast  | Virtual Reality enthuiast | Mixed Reality 
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="60" height="30"></img>
 
-  <br> <a href="https://www.linkedin.com/in/arunkumarvallal/"><img src="https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg" height="10%" width="15%"></img></a><
-
-br><a href=""><img src="https://toppng.com/uploads/preview/instagram-png-logo-11545512103yiiajkgr2i.png" height="30" ></img></a>
+  <br> <a href="https://www.linkedin.com/in/arunkumarvallal/"><img src="https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg" height="70" width="50"></img></a>
+  <br><a href=""><img src="https://toppng.com/uploads/preview/instagram-png-logo-11545512103yiiajkgr2i.png" height="30" ></img></a>
         
