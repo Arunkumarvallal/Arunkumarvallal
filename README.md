@@ -25,7 +25,7 @@ I am a Augmented Reality enthuiast  | Virtual Reality enthuiast | Mixed Reality 
 
 ![Arun Kumar Vallal's github stats](https://github-readme-stats.vercel.app/api?username=Arunkumarvallal&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF)
 
-<img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="120" height="90"></img> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Find me aroud the Web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
   <br> <a href="https://www.linkedin.com/in/arunkumarvallal/"><img src="https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg" height="70" width="70"></img></a>
   <a href=""><img src="https://toppng.com/uploads/preview/instagram-png-logo-11545512103yiiajkgr2i.png" height="30" ></img></a>
