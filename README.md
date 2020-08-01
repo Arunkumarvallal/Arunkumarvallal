@@ -1,7 +1,8 @@
-### Hi there I am Arun Kumar Vallal👋
+<div align="center">
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### Nice to meet you
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="50%" height="40%">
+# Hi, I am Arun kumar Vallal!
+
 I am a Augmented Reality enthuiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 ## 𝗦𝘁𝗮𝘁𝘀
