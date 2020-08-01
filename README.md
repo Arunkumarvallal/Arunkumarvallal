@@ -5,9 +5,10 @@
 <!--<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />!-->
 
 ## Hi, I am [Arun kumar Vallal!](https://arunkumarvallal.github.io/)
-[Protfolio](https://arunkumarvallal.github.io/)🤴
+[Portfolio](https://arunkumarvallal.github.io/)🤴
 
 I am a Augmented Reality enthuiast  | Virtual Reality enthuiast | Mixed Reality enthuiast (🥽) & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. I 
+
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
