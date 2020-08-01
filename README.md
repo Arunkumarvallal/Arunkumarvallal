@@ -22,11 +22,10 @@ I am a Augmented Reality enthuiast  | Virtual Reality enthuiast | Mixed Reality 
 <code><img height="20" src="https://toppng.com/uploads/preview/blender-icon-quotation-icon-11553485486agy4mw14bs.png"></code>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
 ![Arun Kumar Vallal's github stats](https://github-readme-stats.vercel.app/api?username=Arunkumarvallal&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF)
 
-## Find me aroud the Web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-  <br> <a href="https://www.linkedin.com/in/arunkumarvallal/"><img src="https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg" height="70" width="70"></img></a>
+## Find me aroud the Web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  <br> <a href="https://www.linkedin.com/in/arunkumarvallal/"><img src="https://toppng.com/uploads/preview/linkedin-in-icon-vector-download-11573953608gmd147oxa5.jpg" height="30"></img></a>
   <a href=""><img src="https://toppng.com/uploads/preview/instagram-png-logo-11545512103yiiajkgr2i.png" height="30" ></img></a>
         
