@@ -10,16 +10,16 @@
 I am a Augmented Reality enthuiast  | Virtual Reality enthuiast | Mixed Reality enthuiast (🥽) & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. I 
 
 ## Languages and Tools 🔧  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://toppng.com/uploads/preview/conoce-el-editor-de-fotos-online-photoshop-express-adobe-photoshop-logo-11563317182bjajdizpcd.png"></code>
-<code><img height="30" src="https://toppng.com/uploads/preview/after-effects-cc-logo-png-11536003372dlz1t0drrz.png"></code>
-<code><img height="30" src="https://toppng.com/uploads/preview/premiere-pro-cs6-vector-logo-1157428031174cbzbat79.png"></code>
-<code><img height="30" src="https://toppng.com/uploads/preview/blender-icon-quotation-icon-11553485486agy4mw14bs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://toppng.com/uploads/preview/conoce-el-editor-de-fotos-online-photoshop-express-adobe-photoshop-logo-11563317182bjajdizpcd.png"></code>
+<code><img height="40" src="https://toppng.com/uploads/preview/after-effects-cc-logo-png-11536003372dlz1t0drrz.png"></code>
+<code><img height="40" src="https://toppng.com/uploads/preview/premiere-pro-cs6-vector-logo-1157428031174cbzbat79.png"></code>
+<code><img height="40" src="https://toppng.com/uploads/preview/blender-icon-quotation-icon-11553485486agy4mw14bs.png"></code>
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![Arun Kumar Vallal's github stats](https://github-readme-stats.vercel.app/api?username=Arunkumarvallal&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF)
