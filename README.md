@@ -29,5 +29,5 @@ I am a Augmented Reality enthuiast  | Virtual Reality enthuiast | Mixed Reality 
   <br><a href="https://www.linkedin.com/in/arunkumarvallal/">     
         <img src="https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg" height="10%" ; width="15%" ;></img></a>
                 <a href=""/>
-                 <img aling="right" src="https://toppng.com/uploads/preview/instagram-png-logo-11545512103yiiajkgr2i.png" height="30" ></img></a>
+                 <img align="right" src="https://toppng.com/uploads/preview/instagram-png-logo-11545512103yiiajkgr2i.png" height="30" ></img></a>
         
