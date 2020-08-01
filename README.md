@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there I am Arun Kumar Vallal👋
+### Nice to meet you
 
-<!--
-**Arunkumarvallal/Arunkumarvallal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Augmented Reality enthuiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 Here are some ideas to get you started:
 
