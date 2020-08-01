@@ -1,4 +1,5 @@
 <div align="center">
+<img align="center" alt="GIF" height="250px" src="https://ezgif.com/optimize/ezgif-6-77a8c5943906.gif"/>  
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Hi, I am Arun kumar Vallal!
