@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 🙏 வணக்கம் 🙏
-<img align="center" alt="GIF" height="250px" width="300px" src="https://github.com/Arunkumarvallal/Arunkumarvallal/blob/master/XR.gif"/>  
+<img align="center" alt="GIF" height="250px" width="2000px" src="https://github.com/Arunkumarvallal/Arunkumarvallal/blob/master/XR.gif"/>  
 <!--<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />!-->
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I am [Arun kumar Vallal!](https://arunkumarvallal.github.io/)
