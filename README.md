@@ -26,6 +26,5 @@ I am a Augmented Reality enthuiast  | Virtual Reality enthuiast | Mixed Reality 
 
 
 ## Find me aroud the Web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-  <br> <a href="https://www.linkedin.com/in/arunkumarvallal/"><img src="https://toppng.com/uploads/preview/linkedin-in-icon-vector-download-11573953608gmd147oxa5.jpg" height="30"></img></a>
-  <a href="https://www.instagram.com/arunkumar_vallal/"><img src="https://toppng.com/uploads/preview/instagram-png-logo-11545512103yiiajkgr2i.png" height="30" ></img></a>    <a href="https://www.youtube.com/channel/UCE4xVDLhURGWaeox34Ey2RA"><img src="https://toppng.com/uploads/preview/youtube-logo-transparent-grey-115496813328p6v9zpbjg.png" height="30" ></img></a>
+  <br> <a href="https://www.linkedin.com/in/arunkumarvallal/"><img src="https://toppng.com/uploads/preview/linkedin-in-icon-vector-download-11573953608gmd147oxa5.jpg" height="30"></img></a>               <a href="https://www.instagram.com/arunkumar_vallal/"><img src="https://toppng.com/uploads/preview/instagram-png-logo-11545512103yiiajkgr2i.png" height="30" ></img></a>         <a href="https://www.youtube.com/channel/UCE4xVDLhURGWaeox34Ey2RA"><img src="https://toppng.com/uploads/preview/youtube-logo-transparent-grey-115496813328p6v9zpbjg.png" height="30" ></img></a>
         
