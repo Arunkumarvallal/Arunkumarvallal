@@ -2,8 +2,9 @@
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Hi, I am Arun kumar Vallal!
+[Protfolio](https://arunkumarvallal.github.io/)🤴
 
-I am a Augmented Reality enthuiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
+I am a Augmented Reality enthuiast (🥽)& an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
