@@ -1,12 +1,12 @@
 <div align="center">
 
-### 🙏 வணக்கம் 🙏
+# 🙏 வணக்கம் 🙏
 <img align="center"  alt="GIF" src="https://github.com/Arunkumarvallal/Arunkumarvallal/blob/master/XR.gif"/>  
 <!--<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />!-->
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I am [Arun kumar Vallal !](https://arunkumarvallal.github.io/)   <br><img src="https://komarev.com/ghpvc/?username=arunkumarvallal" alt="arunkumarvallal" />
 
-## [Portfolio](https://arunkumarvallal.github.io/)🤴
+## Portfolio🤴
 
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an <q><b>Augmented Reality enthusiast</b></q> | <q><b>Virtual Reality enthusiast</b></q> | <q><b>Mixed Reality enthusiast</b></q> (🥽) & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. I love working in emerging technologies like Extended Reality. I develop Augmented Reality applications with the help of ARFoundation, Vuforia SDK, and ARCore SDK in unity. I contribute to upcoming technologies like Extended Reality.</p><p>My approach to problems is constructive and streamlined. Passionate about working in extended reality applications. Skilled in Photoshop, Premiere Pro, and After effects. I design 3d models with the help of blender application. I love working with open-source software.</p>
 
