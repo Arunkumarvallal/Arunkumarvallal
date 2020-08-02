@@ -29,7 +29,10 @@ I am a Augmented Reality enthuiast  | Virtual Reality enthuiast | Mixed Reality 
 
 ## Find me around the Web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   <br> <a href="https://www.linkedin.com/in/arunkumarvallal/"><img src="https://toppng.com/uploads/preview/linkedin-in-icon-vector-download-11573953608gmd147oxa5.jpg" height="30"></img></a>               <a href="https://www.instagram.com/arunkumar_vallal/"><img src="https://toppng.com/uploads/preview/instagram-png-logo-11545512103yiiajkgr2i.png" height="30" ></img></a>         <a href="https://www.youtube.com/channel/UCE4xVDLhURGWaeox34Ey2RA"><img src="https://toppng.com/uploads/preview/youtube-logo-transparent-grey-115496813328p6v9zpbjg.png" height="30" ></img></a>                <a href="https://twitter.com/immersivearun"><img src="https://toppng.com/uploads/preview/twitter-logo-png-11536001213r8mxh3zvhg.png" height="30" ></img></a>
-        
-        
+ 
+ <a href="https://twitter.com/immersivearun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="immersivearun" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/arunkumarvalla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arunkumarvalla" height="20" width="20" /></a>
+<a href="https://instagram.com/arunkumar_vallal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arunkumar_vallal" height="20" width="20" /></a>
+<a href="https://medium.com/@arunkumarvallal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arunkumarvallal" height="20" width="20" /></a>
         
      
