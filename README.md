@@ -4,7 +4,7 @@
 <img align="center"  alt="GIF" src="https://github.com/Arunkumarvallal/Arunkumarvallal/blob/master/XR.gif"/>  
 <!--<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />!-->
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I am [Arun kumar Vallal!](https://arunkumarvallal.github.io/)   <br><img src="https://komarev.com/ghpvc/?username=arunkumarvallal" alt="arunkumarvallal" />
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I am [Arun kumar Vallal !](https://arunkumarvallal.github.io/)   <br><img src="https://komarev.com/ghpvc/?username=arunkumarvallal" alt="arunkumarvallal" />
 
 ## [Portfolio](https://arunkumarvallal.github.io/)🤴
 
@@ -25,7 +25,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-
+![Arun Kumar stats](https://github-readme-stats.vercel.app/api?username=Arunkumarvallal&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF)
 
 ## Find me around the Web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   <br> 
