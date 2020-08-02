@@ -5,7 +5,8 @@
 <!--<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />!-->
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I am [Arun kumar Vallal!](https://arunkumarvallal.github.io/)
-[Portfolio](https://arunkumarvallal.github.io/)🤴
+
+## [Portfolio](https://arunkumarvallal.github.io/)🤴
 
 I am a Augmented Reality enthuiast  | Virtual Reality enthuiast | Mixed Reality enthuiast (🥽) & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. I 
 
