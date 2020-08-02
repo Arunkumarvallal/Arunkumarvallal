@@ -23,10 +23,9 @@
 <code><img height="40" src="https://toppng.com/uploads/preview/premiere-pro-cs6-vector-logo-1157428031174cbzbat79.png"></code>
 <code><img height="40" src="https://toppng.com/uploads/preview/blender-icon-quotation-icon-11553485486agy4mw14bs.png"></code>
 
-## 𝗦𝘁𝗮𝘁𝘀
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arunkumarvallal&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF" alt="arunkumarvallal" /> </p>
+## 𝗦𝘁𝗮𝘁𝘀 
+<img src="https://github-readme-stats.vercel.app/api?username=arunkumarvallal&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF" alt="arunkumarvallal" />
 
-![Arun Kumar stats](https://github-readme-stats.vercel.app/api?username=Arunkumarvallal&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF)
 
 ## Find me around the Web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   <br> 
