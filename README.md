@@ -8,11 +8,6 @@
 
 ## [Portfolio](https://arunkumarvallal.github.io/)🤴
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
 I am a Augmented Reality enthuiast  | Virtual Reality enthuiast | Mixed Reality enthuiast (🥽) & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. I 
 
 ## Languages and Tools 🔧  
