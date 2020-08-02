@@ -8,7 +8,7 @@
 
 ## [Portfolio](https://arunkumarvallal.github.io/)🤴
 
-I am an <q><b>Augmented Reality enthusiast</b></q> | <q><b>Virtual Reality enthusiast</b></q> | <q><b>Mixed Reality enthusiast</b></q> (🥽) & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. I love working in emerging technologies like Extended Reality. I develop Augmented Reality applications with the help of ARFoundation, Vuforia SDK, and ARCore SDK in unity. I contribute to upcoming technologies like Extended Reality.                                              <br><br>
+I am an <q><b>Augmented Reality enthusiast</b></q> | <q><b>Virtual Reality enthusiast</b></q> | <q><b>Mixed Reality enthusiast</b></q> (🥽) & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. I love working in emerging technologies like Extended Reality. I develop Augmented Reality applications with the help of ARFoundation, Vuforia SDK, and ARCore SDK in unity. I contribute to upcoming <p align="left">technologies like Extended Reality.</p>                                              <br><br>
 
 My approach to problems is constructive and streamlined. Passionate about working in extended reality applications. Skilled in Photoshop, Premiere Pro, and After effects. I design 3d models with the help of blender application. I love working with open-source software.
 
