@@ -7,10 +7,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I am [Arun kumar Vallal !](https://arunkumarvallal.github.io/)   <br><img src="https://komarev.com/ghpvc/?username=arunkumarvallal" alt="arunkumarvallal" />
 
 
-# Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## Portfolio🤴
 
@@ -28,6 +25,13 @@
 <code><img height="40" src="https://toppng.com/uploads/preview/after-effects-cc-logo-png-11536003372dlz1t0drrz.png"></code>
 <code><img height="40" src="https://toppng.com/uploads/preview/premiere-pro-cs6-vector-logo-1157428031174cbzbat79.png"></code>
 <code><img height="40" src="https://toppng.com/uploads/preview/blender-icon-quotation-icon-11553485486agy4mw14bs.png"></code>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Create A GitHub Profile README 📝](https://dev.to/arunkumarvallal/how-to-create-a-github-profile-readme-ga8)
+- [How To Create A GitHub Profile README ](https://medium.com/@Arunkumarvallal/how-to-create-a-github-profile-readme-by-arunkumarvallal-5e618b6f7169?source=rss-9ef51a3e8163------2)
+<!-- BLOG-POST-LIST:END -->
 
 ## 𝗦𝘁𝗮𝘁𝘀 
 <img src="https://github-readme-stats.vercel.app/api?username=arunkumarvallal&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF" alt="arunkumarvallal" />
