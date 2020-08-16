@@ -30,7 +30,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Create A GitHub Profile README 📝](https://dev.to/arunkumarvallal/how-to-create-a-github-profile-readme-ga8)
-- [How To Create A GitHub Profile README ](https://medium.com/@Arunkumarvallal/how-to-create-a-github-profile-readme-by-arunkumarvallal-5e618b6f7169?source=rss-9ef51a3e8163------2)
+- [How To Create A GitHub Profile README](https://medium.com/@Arunkumarvallal/how-to-create-a-github-profile-readme-by-arunkumarvallal-5e618b6f7169?source=rss-9ef51a3e8163------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 𝗦𝘁𝗮𝘁𝘀 
