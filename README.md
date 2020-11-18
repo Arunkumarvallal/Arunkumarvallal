@@ -22,6 +22,7 @@
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"></code>
