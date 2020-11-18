@@ -18,13 +18,13 @@
 
 ## Languages and Tools 🔧  
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://toppng.com/uploads/preview/conoce-el-editor-de-fotos-online-photoshop-express-adobe-photoshop-logo-11563317182bjajdizpcd.png"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"></code>
 <code><img height="40" src="https://toppng.com/uploads/preview/after-effects-cc-logo-png-11536003372dlz1t0drrz.png"></code>
 <code><img height="40" src="https://toppng.com/uploads/preview/premiere-pro-cs6-vector-logo-1157428031174cbzbat79.png"></code>
 <code><img height="40" src="https://toppng.com/uploads/preview/blender-icon-quotation-icon-11553485486agy4mw14bs.png"></code>
