@@ -4,7 +4,7 @@
 
 
 # 🙏 Vanakkam 🙏
-<img align="center"  alt="GIF" height="300"  src="https://github.com/Arunkumarvallal/Arunkumarvallal/blob/master/cover.jpg"/>  
+<img align="center"  alt="GIF" height="300"  src="https://github.com/Arunkumarvallal/Arunkumarvallal.github.io/blob/main/images/cover.jpg"/>  
 <!--<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />!-->
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I am [Arun kumar Vallal !](https://arunkumarvallal.github.io/)   <br><img src="https://komarev.com/ghpvc/?username=arunkumarvallal" alt="arunkumarvallal" />
@@ -17,13 +17,13 @@
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an <q><b>Augmented Reality enthusiast</b></q> | <q><b>Virtual Reality enthusiast</b></q> | <q><b>Mixed Reality enthusiast</b></q> (🥽) & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. I love working in emerging technologies like Extended Reality. I develop Augmented Reality applications with the help of ARFoundation, Vuforia SDK, and ARCore SDK in unity. I contribute to upcoming technologies like Extended Reality.</p><p>My approach to problems is constructive and streamlined. Passionate about working in extended reality applications. Skilled in Photoshop, Premiere Pro, and After effects. I design 3d models with the help of blender application. I love working with open-source software.</p>
 
 ## Languages and Tools 🔧  
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"></code>
 <code><img height="40" src="https://toppng.com/uploads/preview/after-effects-cc-logo-png-11536003372dlz1t0drrz.png"></code>
 <code><img height="40" src="https://toppng.com/uploads/preview/premiere-pro-cs6-vector-logo-1157428031174cbzbat79.png"></code>
