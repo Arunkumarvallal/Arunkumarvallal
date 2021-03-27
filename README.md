@@ -34,9 +34,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to start learning Augmented Reality from scratch?](https://dev.to/arunkumarvallal/how-to-start-learning-augmented-reality-from-scratch-5hf4)
-- [How to start learning Augmented Reality from scratch?](https://arunkumarvallal.medium.com/how-to-start-learning-augmented-reality-from-scratch-adeda43ed1fd?source=rss-9ef51a3e8163------2)
 - [How To Create A GitHub Profile README 📝](https://dev.to/arunkumarvallal/how-to-create-a-github-profile-readme-ga8)
-- [How To Create A GitHub Profile README](https://arunkumarvallal.medium.com/how-to-create-a-github-profile-readme-by-arunkumarvallal-5e618b6f7169?source=rss-9ef51a3e8163------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 𝗦𝘁𝗮𝘁𝘀 
