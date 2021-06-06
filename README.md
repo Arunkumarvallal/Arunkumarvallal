@@ -16,7 +16,7 @@
   <br> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-arunkumarvallal%20-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arunkumarvallal/ "Connect on LinkedIn")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arunkumarvallal/ "Follow on Instagram")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arunkumar_vallal/ "Follow on Instagram")
 [![Twitter Badge](https://img.shields.io/badge/-@arunkumarvallal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/arunkumarvallal "Follow on Twitter")
 
 <h2 align="center">💬 My Blog Articles</h2>
