@@ -12,6 +12,11 @@
 [![Behance Badge](https://img.shields.io/badge/-@arunkumarvallal-053eff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/arunkumarvallal "Follow on Twitter")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arunkumar_vallal/ "Follow on Instagram")
 
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=plastic&logo=react&logoColor=61DBFB)
+
 <h2 align="center">💬 My Blog Articles</h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://dev.to/arunkumarvallal"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
