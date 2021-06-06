@@ -15,7 +15,7 @@
 ## ⚡ Technologies
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=61DBFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logoColor=java)
 ![C sharp](https://img.shields.io/badge/-C%20Sharp-000000?style=flat&logo=C%20Sharp&logoColor=C%20Sharp)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=Unity)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=Adobe%20Photoshop&logoColor=Adobe%20Photoshop)
