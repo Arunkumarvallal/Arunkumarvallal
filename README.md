@@ -13,13 +13,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arunkumar_vallal/ "Follow on Instagram")
 
 ## ⚡ Technologies
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=plastic&logo=react&logoColor=61DBFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C sharp](https://img.shields.io/badge/-C%20Sharp-000000?style=plastic&logo=C%20Sharp&logoColor=C%20Sharp)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=plastic&logo=Unity&logoColor=Unity)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=plastic&logo=Adobe%20Photoshop&logoColor=Adobe%20Photoshop)
-![Adobe Premier Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000000?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=Adobe%20Premiere%20Pro)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=61DBFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![C sharp](https://img.shields.io/badge/-C%20Sharp-000000?style=flat&logo=C%20Sharp&logoColor=C%20Sharp)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=Unity)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=Adobe%20Photoshop&logoColor=Adobe%20Photoshop)
+![Adobe Premier Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000000?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=Adobe%20Premiere%20Pro)
 
 <h2 align="center">💬 My Blog Articles</h2>
 <p align="center" align='right'>
