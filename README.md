@@ -29,6 +29,6 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀 
 <img src="https://github-readme-stats.vercel.app/api?username=arunkumarvallal&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF" alt="arunkumarvallal" />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumarvallal&" alt="arunkumarvallal" /></p>
 
 
