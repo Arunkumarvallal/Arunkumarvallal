@@ -29,11 +29,5 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀 
 <img src="https://github-readme-stats.vercel.app/api?username=arunkumarvallal&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF" alt="arunkumarvallal" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumarvallal&" alt="arunkumarvallal" /></p>
-
   
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@arunkumarvallal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arunkumarvallal" height="30" width="40" /></a>
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=arunkumarvallal&theme=dark)](https://git.io/streak-stats)
